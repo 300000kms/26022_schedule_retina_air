@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-08T10:25:42.791676+00:00",
+  "generated_at_utc": "2026-09-09T10:35:34.155244+00:00",
   "dataset": "MADRID2",
   "species": "NO2",
   "dataset_species": "MADRID2-NO2",
@@ -20,11 +20,11 @@
   "tifs_skipped_existing": 1,
   "ttf_deleted": 48,
   "complete_days": [
-    "2026-09-07"
+    "2026-09-08"
   ],
   "incomplete_days": [
     {
-      "day": "2026-09-08",
+      "day": "2026-09-09",
       "present_hours": [
         0,
         1,
@@ -57,37 +57,13 @@
     }
   ],
   "written_files": [
-    "data/MADRID2-NO2/time-tifs/2026-09-07.tif"
+    "data/MADRID2-NO2/time-tifs/2026-09-08.tif"
   ],
   "written_netcdf_files": [],
   "skipped_existing": [
-    "data/MADRID2-NO2/time-tifs/2026-09-06.tif"
+    "data/MADRID2-NO2/time-tifs/2026-09-07.tif"
   ],
   "deleted_ttf_files": [
-    "data/MADRID2-NO2/time-slices/2026-09-06--00-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--01-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--02-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--03-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--04-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--05-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--06-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--07-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--08-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--09-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--10-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--11-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--12-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--13-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--14-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--15-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--16-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--17-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--18-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--19-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--20-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--21-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--22-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-06--23-00-00.ttf",
     "data/MADRID2-NO2/time-slices/2026-09-07--00-00-00.ttf",
     "data/MADRID2-NO2/time-slices/2026-09-07--01-00-00.ttf",
     "data/MADRID2-NO2/time-slices/2026-09-07--02-00-00.ttf",
@@ -111,7 +87,31 @@
     "data/MADRID2-NO2/time-slices/2026-09-07--20-00-00.ttf",
     "data/MADRID2-NO2/time-slices/2026-09-07--21-00-00.ttf",
     "data/MADRID2-NO2/time-slices/2026-09-07--22-00-00.ttf",
-    "data/MADRID2-NO2/time-slices/2026-09-07--23-00-00.ttf"
+    "data/MADRID2-NO2/time-slices/2026-09-07--23-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--00-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--01-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--02-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--03-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--04-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--05-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--06-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--07-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--08-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--09-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--10-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--11-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--12-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--13-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--14-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--15-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--16-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--17-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--18-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--19-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--20-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--21-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--22-00-00.ttf",
+    "data/MADRID2-NO2/time-slices/2026-09-08--23-00-00.ttf"
   ],
   "failed_days": [],
   "cogs_written": 1,
