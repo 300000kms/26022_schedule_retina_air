@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-14T11:27:02.676916+00:00",
+  "generated_at_utc": "2026-09-15T10:49:37.357879+00:00",
   "dataset": "MADRID2",
   "species": "NO2",
   "dataset_species": "MADRID2-NO2",
@@ -13,14 +13,47 @@
   "delete_intermediate_ttf": true,
   "save_intermediate_netcdf": false,
   "bands_per_day": 24,
-  "days_found": 0,
+  "days_found": 1,
   "days_complete": 0,
-  "days_incomplete": 0,
+  "days_incomplete": 1,
   "tifs_written": 0,
   "tifs_skipped_existing": 0,
   "ttf_deleted": 0,
   "complete_days": [],
-  "incomplete_days": [],
+  "incomplete_days": [
+    {
+      "day": "2026-09-15",
+      "present_hours": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "missing_hours": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "count": 11
+    }
+  ],
   "written_files": [],
   "written_netcdf_files": [],
   "skipped_existing": [],
